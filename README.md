@@ -1,7 +1,7 @@
 # Interrupts
 
 This Program can be run on 32-bit computer architecture like DOS.
-<br />
+<br /><br />
 Implementation of a new system function: "Program slowdown": int slowPrg ();
 <br />
 
@@ -13,8 +13,8 @@ Implementation of a new system function: "Program slowdown": int slowPrg ();
 Pressing the 2 shift (s) right shift and left shift (together for 3 consecutive seconds, disables the entire slowPrg mechanism, restore the system and exits the program.
 
 
-![restaurant](img1.jpg)
+![restaurant](image_01.jpg)
 
 <br />
 
-![Screenshot](img_2.jpg)
+![Screenshot](image_02.jpg)
