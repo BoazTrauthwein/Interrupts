@@ -2,7 +2,7 @@
 
 This Program can be run on 32-bit computer architecture like DOS.
 <br /><br />
-Implementation of a new system function: "Program slowdown": int slowPrg ();
+Implementation of a new system function: "Program slowdown": int slowPrg();
 <br />
 
 ## Program description:
